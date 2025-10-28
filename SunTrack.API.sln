@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunTrack.API", "SunTrack.API\SunTrack.API.csproj", "{CF9472AE-2845-40F9-A924-9AEFE670AE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunTrack.API.Data", "SunTrack.API.Data\SunTrack.API.Data.csproj", "{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9472AE-2845-40F9-A924-9AEFE670AE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9472AE-2845-40F9-A924-9AEFE670AE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9472AE-2845-40F9-A924-9AEFE670AE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9472AE-2845-40F9-A924-9AEFE670AE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3462A60A-F86D-417E-9B22-D9B41E823C20}
+	EndGlobalSection
+EndGlobal
