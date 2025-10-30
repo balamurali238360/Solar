@@ -11,7 +11,7 @@ public partial class SunTrackContext : DbContext
     }
 
     public SunTrackContext(DbContextOptions<SunTrackContext> options)
-        : base(options) 
+        : base(options)
     {
     }
 

@@ -2,6 +2,7 @@
 using SunTrack.API.Data.Models;
 using SunTrack.API.ViewModels;
 using SunTrack.API.ViewModels.Leads;
+using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +13,12 @@ namespace SunTrack.API.Services.Leads
     public class LeadsService : ILeadsService
     {
         private readonly SunTrackContext _context;
+        private readonly IMapper _mapper;
 
-        public LeadsService(SunTrackContext context)
+        public LeadsService(SunTrackContext context,IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         public async Task<IEnumerable<LeadVM>> GetAllLeadsAsync(SearchVM search)
@@ -102,6 +105,47 @@ namespace SunTrack.API.Services.Leads
                 return false;
             }
         }
+
+        public async Task<bool> AddLeadWithCustomerAsync(LeadWithCustomerVM newLead)
+        {
+            try
+            {
+                int customerId;
+                if (newLead.CustomerId.HasValue)
+                {
+                    var existingCustomer = await _context.Customers
+                        .FirstOrDefaultAsync(c => c.Id == newLead.CustomerId.Value);
+
+                    if (existingCustomer == null)
+                    {
+                        Console.WriteLine("Invalid CustomerId. Customer does not exist.");
+                        return false;
+                    }
+
+                    customerId = existingCustomer.Id;
+                }
+                else
+                {
+                    var customer = _mapper.Map<Customer>(newLead);
+                    await _context.Customers.AddAsync(customer);
+                    await _context.SaveChangesAsync(); 
+                    customerId = customer.Id;
+                }
+                var lead = _mapper.Map<Lead>(newLead);
+                lead.CustomerId = customerId;
+
+                await _context.Leads.AddAsync(lead);
+                await _context.SaveChangesAsync();
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error adding lead with customer: " + ex.Message);
+                return false;
+            }
+        }
+
 
         public async Task<bool> UpdateLeadAsync( LeadCreateVM updatedLead)
         {

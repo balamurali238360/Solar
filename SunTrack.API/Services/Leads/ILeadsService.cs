@@ -11,9 +11,13 @@ namespace SunTrack.API.Services.Leads
       
         Task<bool> AddLeadAsync(LeadCreateVM newLead);
 
+        Task<bool> AddLeadWithCustomerAsync(LeadWithCustomerVM newLead);
+
+
         Task<bool> UpdateLeadAsync( LeadCreateVM updatedLead);
 
         Task<bool> DeleteLeadAsync(int id);
+
 
 
     }

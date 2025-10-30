@@ -23,6 +23,8 @@ public partial class User
 
     public string Gender { get; set; } = null!;
 
+    public bool? IsActive { get; set; }
+
     public virtual ICollection<Customer> CustomerCreatedByNavigations { get; set; } = new List<Customer>();
 
     public virtual ICollection<Customer> CustomerUpdatedByNavigations { get; set; } = new List<Customer>();

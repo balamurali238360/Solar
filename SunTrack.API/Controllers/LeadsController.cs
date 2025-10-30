@@ -57,6 +57,28 @@ namespace SunTrack.API.Controllers.Leads
             }
         }
 
+        [HttpPost("AddLeadWithCustomer")]
+public async Task<ActionResult<bool>> AddLeadWithCustomer(LeadWithCustomerVM newLead)
+{
+    try
+    {
+        if (newLead == null)
+            return BadRequest("Lead data is required.");
+
+        var result = await _leadsService.AddLeadWithCustomerAsync(newLead);
+
+        if (result)
+            return Ok("Lead (and new customer if required) added successfully.");
+        else
+            return StatusCode(500, "Failed to add lead.");
+    }
+    catch (Exception ex)
+    {
+        return StatusCode(500, "Error adding lead: " + ex.Message);
+    }
+}
+
+
         [HttpPut("UpdateLead")]
         public async Task<ActionResult<bool>> UpdateLead( LeadCreateVM updatedLead)
 

@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "D:\\SunTrack.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\leads\\leadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\leads\\leadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\leads\\ileadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\leads\\ileadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\viewmodels\\leads\\leadcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\viewmodels\\leads\\leadcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|d:\\suntrack.api\\suntrack.api.data\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|solutionrelative:suntrack.api.data\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\viewmodels\\leads\\leadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\viewmodels\\leads\\leadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|d:\\suntrack.api\\suntrack.api.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|solutionrelative:suntrack.api.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|d:\\suntrack.api\\suntrack.api.data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|solutionrelative:suntrack.api.data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|d:\\suntrack.api\\suntrack.api.data\\models\\suntrackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D149A21E-3F97-40A1-B202-BBAE5DBE0D64}|SunTrack.API.Data\\SunTrack.API.Data.csproj|solutionrelative:suntrack.api.data\\models\\suntrackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\enum\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\enum\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\leads\\leadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\leads\\leadsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\viewmodels\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\viewmodels\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\suntrack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\suntrack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|d:\\suntrack.api\\suntrack.api\\services\\customers\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9472AE-2845-40F9-A924-9AEFE670AE6B}|SunTrack.API\\SunTrack.API.csproj|solutionrelative:suntrack.api\\services\\customers\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeadCreateVM.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\Leads\\LeadCreateVM.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\ViewModels\\Leads\\LeadCreateVM.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\Leads\\LeadCreateVM.cs",
-              "RelativeToolTip": "SunTrack.API\\ViewModels\\Leads\\LeadCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:09:00.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Program.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\Program.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Program.cs",
-              "RelativeToolTip": "SunTrack.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:56:03.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LeadVM.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\Leads\\LeadVM.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\ViewModels\\Leads\\LeadVM.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\Leads\\LeadVM.cs",
-              "RelativeToolTip": "SunTrack.API\\ViewModels\\Leads\\LeadVM.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:40:30.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "SunTrack.API.Data\\Models\\Customer.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\Customer.cs",
-              "RelativeToolTip": "SunTrack.API.Data\\Models\\Customer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T10:36:15.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lead.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\Lead.cs",
-              "RelativeDocumentMoniker": "SunTrack.API.Data\\Models\\Lead.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\Lead.cs",
-              "RelativeToolTip": "SunTrack.API.Data\\Models\\Lead.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T10:22:45.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeadsController.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\LeadsController.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\Controllers\\LeadsController.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\LeadsController.cs",
-              "RelativeToolTip": "SunTrack.API\\Controllers\\LeadsController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAwDsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:37:04.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "LeadsService.cs",
               "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Services\\Leads\\LeadsService.cs",
               "RelativeDocumentMoniker": "SunTrack.API\\Services\\Leads\\LeadsService.cs",
               "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Services\\Leads\\LeadsService.cs",
               "RelativeToolTip": "SunTrack.API\\Services\\Leads\\LeadsService.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:35:23.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILeadsService.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Services\\Leads\\ILeadsService.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\Services\\Leads\\ILeadsService.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Services\\Leads\\ILeadsService.cs",
-              "RelativeToolTip": "SunTrack.API\\Services\\Leads\\ILeadsService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:33:41.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SunTrackContext.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\SunTrackContext.cs",
-              "RelativeDocumentMoniker": "SunTrack.API.Data\\Models\\SunTrackContext.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\SunTrackContext.cs",
-              "RelativeToolTip": "SunTrack.API.Data\\Models\\SunTrackContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:56:36.015Z",
+              "WhenOpened": "2025-10-30T10:02:13.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StatusEnum.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Enum\\StatusEnum.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\Enum\\StatusEnum.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Enum\\StatusEnum.cs",
-              "RelativeToolTip": "SunTrack.API\\Enum\\StatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Services\\Customers\\CustomerService.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Services\\Customers\\CustomerService.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Services\\Customers\\CustomerService.cs",
+              "RelativeToolTip": "SunTrack.API\\Services\\Customers\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:43:48.896Z",
+              "WhenOpened": "2025-10-30T10:02:09.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SearchVM.cs",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\SearchVM.cs",
-              "RelativeDocumentMoniker": "SunTrack.API\\ViewModels\\SearchVM.cs",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\ViewModels\\SearchVM.cs",
-              "RelativeToolTip": "SunTrack.API\\ViewModels\\SearchVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "SunTrackContext.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\SunTrackContext.cs",
+              "RelativeDocumentMoniker": "SunTrack.API.Data\\Models\\SunTrackContext.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\SunTrackContext.cs",
+              "RelativeToolTip": "SunTrack.API.Data\\Models\\SunTrackContext.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAiwF8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T10:18:29.49Z",
+              "WhenOpened": "2025-10-30T09:58:04.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SunTrack.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SunTrack.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-23T12:31:18.731Z",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SunTrack.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:16:50.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SunTrack.API.csproj",
-              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\SunTrack.API.csproj",
-              "RelativeDocumentMoniker": "SunTrack.API\\SunTrack.API.csproj",
-              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\SunTrack.API.csproj",
-              "RelativeToolTip": "SunTrack.API\\SunTrack.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T07:01:43.024Z",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SunTrack.API.Data\\Models\\User.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API.Data\\Models\\User.cs",
+              "RelativeToolTip": "SunTrack.API.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:11:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Services\\Users\\IUserService.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "SunTrack.API\\Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:48:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Services\\Users\\UserService.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "SunTrack.API\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:48:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SunTrack.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:57:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "SunTrack.API\\Controllers\\LeadsController.cs",
+              "ToolTip": "D:\\SunTrack.API\\SunTrack.API\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "SunTrack.API\\Controllers\\LeadsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:52:22.59Z",
               "EditorCaption": ""
             }
           ]
